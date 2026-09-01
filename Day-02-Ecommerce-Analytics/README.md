@@ -38,6 +38,8 @@ payments, and delivery performance.
 - DAX
 - Data Modeling
 - Data Visualization
+  <img width="2509" height="1441" alt="image" src="https://github.com/user-attachments/assets/644062ba-15a8-400a-9230-1f2db2222afd" />
+
 
 ## 📂 Dataset
 
