@@ -50,3 +50,4 @@ Olist Brazilian E-Commerce Dataset
 **Day 2/30 — Completed ✅**
 
 #30Days30Dashboards #PowerBI #DataAnalytics
+https://app.powerbi.com/Redirect?action=openreport&context=Annotate&ctid=3eda7c5f-6bc8-437b-9331-d8d3f6a49428&pbi_source=mobile_android&groupObjectId=bb95eac7-7377-4d48-855c-ab3daa14d87c&reportObjectId=b60eca22-93d9-4393-aede-b87469d072c2&reportPage=5299729ece3b2e48baab&bookmarkGuid=d293861c-0a1b-4112-93ad-919eb9857a31&fullScreen=0
