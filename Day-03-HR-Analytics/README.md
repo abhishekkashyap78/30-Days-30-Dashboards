@@ -61,6 +61,8 @@ Power Query – Data cleaning and transformation
 DAX – Calculations and KPIs
 
 Excel / CSV – Dataset source
+![Uploading Screenshot 2026-09-03 105011.png…]()
+
 
 💡 Key Insights
 
