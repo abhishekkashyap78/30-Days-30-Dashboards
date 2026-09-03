@@ -97,6 +97,7 @@ Consistent top performers across seasons include Virat Kohli, AB de Villiers, an
 Mumbai Indians and Chennai Super Kings show the highest win percentages.
 
 📸 Dashboard Preview
+![Uploading Screenshot 2026-09-03 104321.png…]()
 
 
 🚀 How to Use
