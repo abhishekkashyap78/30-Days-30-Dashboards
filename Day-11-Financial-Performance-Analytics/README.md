@@ -1,9 +1,6 @@
 # 📊 Day 11 – Financial Performance Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-Analysis-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
+![Power BI]([https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi](https://app.powerbi.com/groups/me/reports/04f4efac-0941-4f85-9fea-19c671937804/8077098b086076780d72?experience=power-bi))
 
 ---
 
