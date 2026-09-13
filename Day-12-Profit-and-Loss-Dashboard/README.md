@@ -1,6 +1,5 @@
 # 📊 Day 12 - Profit & Loss Dashboard
 
-![Uploading image.png…]()
 
 
 
