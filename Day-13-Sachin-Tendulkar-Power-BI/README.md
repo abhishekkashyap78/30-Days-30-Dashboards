@@ -251,9 +251,9 @@ Data Visualization
         ↓
 Interactive Dashboard
         ↓
-Cricket Insights
+Cricket Insights  
 
-🧮 Example DAX Measures
+# 🧮 Example DAX Measures
 
 Example measures used for cricket performance analysis:
 
