@@ -6,6 +6,7 @@
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
 
 ---
+![Uploading image.png…]()
 
 ## 📌 Project Overview
 
@@ -50,9 +51,6 @@ The main objectives of this dashboard are:
 7. Analyze 3-year sales and profit growth.
 8. Evaluate latest quarter performance.
 9. Provide actionable financial insights.
-    ![Uploading image.png…]()
-
-
 ---
 
 # 📊 Key Performance Indicators
