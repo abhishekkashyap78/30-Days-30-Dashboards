@@ -252,3 +252,201 @@ Data Visualization
 Interactive Dashboard
         ↓
 Cricket Insights
+
+🧮 Example DAX Measures
+
+Example measures used for cricket performance analysis:
+
+Total Runs = SUM(CricketData[Runs])
+Total Matches = DISTINCTCOUNT(CricketData[Match])
+Total Centuries =
+CALCULATE(
+    COUNTROWS(CricketData),
+    CricketData[Runs] >= 100
+)
+Total Half Centuries =
+CALCULATE(
+    COUNTROWS(CricketData),
+    CricketData[Runs] >= 50,
+    CricketData[Runs] < 100
+)
+
+Measure and column names may vary depending on the dataset structure.
+
+🎨 Dashboard Design
+
+The dashboard was designed with a focus on:
+
+Clean layout
+Cricket-themed storytelling
+Easy-to-read KPIs
+Interactive filtering
+Clear visual hierarchy
+Simple navigation
+Performance comparison
+
+The goal was to make the dashboard useful for both cricket fans and data analytics learners.
+
+🔎 Interactive Filters
+
+The dashboard allows users to explore the data using filters such as:
+
+Year
+Opponent
+Format
+Match type
+Tournament
+Performance category
+
+These filters allow users to perform customized analysis.
+
+💡 Data Analytics Learnings
+
+This project helped me understand how sports data can be analyzed using the same techniques used in business intelligence.
+
+Important concepts practiced include:
+
+Data cleaning
+Data transformation
+Data modeling
+DAX
+KPI creation
+Trend analysis
+Comparative analysis
+Interactive visualization
+Data storytelling
+🚀 Business Intelligence Concepts Applied
+
+Even though this is a cricket dashboard, several business intelligence concepts were applied:
+
+KPI Analysis
+
+Important performance indicators were displayed prominently.
+
+Trend Analysis
+
+Year-wise performance was used to identify trends.
+
+Comparative Analysis
+
+Performance was compared across opponents and formats.
+
+Segmentation
+
+The data was segmented by year, opponent, and format.
+
+Interactive Reporting
+
+Users can filter and explore the data dynamically.
+
+📁 Project Structure
+Day-13-Sachin-Tendulkar-Power-BI/
+│
+├── README.md
+├── Sachin-Tendulkar-Power-BI.pbix
+├── Sachin-Tendulkar-Dataset.xlsx
+└── Sachin-Tendulkar-Dashboard.png
+🖼️ Dashboard Preview
+
+Add the dashboard screenshot to the repository and display it using:
+
+![Sachin Tendulkar Power BI Dashboard](![Uploading Screenshot 2026-09-13 104001.png…]
+📚 Skills Demonstrated
+
+Through this project, I practiced:
+
+Power BI
+Power Query
+DAX
+Data Cleaning
+Data Transformation
+Data Modeling
+Sports Analytics
+KPI Development
+Data Visualization
+Dashboard Design
+Trend Analysis
+Comparative Analysis
+Data Storytelling
+🎓 Learning Outcomes
+
+This project helped me improve my ability to:
+
+Work with sports datasets
+Create interactive Power BI dashboards
+Develop meaningful KPIs
+Analyze performance trends
+Compare different categories
+Use DAX for analytical calculations
+Build effective visualizations
+Present data as a story
+
+It also demonstrated how data analytics can be applied beyond traditional business datasets.
+
+🚀 Future Improvements
+
+Future versions of this dashboard could include:
+
+Ball-by-ball analysis
+Strike-rate analysis
+Venue-wise performance
+Home vs Away comparison
+Opposition-wise strike rate
+Partnership analysis
+Innings-level analysis
+Match-winning innings
+Interactive career timeline
+Advanced cricket KPIs
+📌 30 Days, 30 Dashboards Challenge
+
+This project is part of my 30 Days, 30 Dashboards Challenge.
+
+The goal of this challenge is to build one dashboard every day and continuously improve my skills in:
+
+Data Analysis → Data Visualization → Business Intelligence → Data Storytelling
+
+Challenge Progress
+Day	Dashboard
+Day 01	Sales Performance Dashboard
+Day 02	E-Commerce Analytics Dashboard
+Day 03	HR Analysis
+Day 04	IPL Analysis
+Day 05	Superstore Sales Analytics
+Day 06	Olympic Games Analytics
+Day 07	Employee Attrition Analysis
+Day 08	Marketing Campaign Analytics
+Day 09	Social Media Analytics
+Day 10	COVID-19 Analytics
+Day 11	Financial Performance Analytics
+Day 12	Profit & Loss Dashboard
+Day 13	Sachin Tendulkar Cricket Analytics
+🔥 Progress: 13/30 Dashboards Completed
+🤝 Feedback
+
+I would love to receive feedback and suggestions regarding:
+
+Dashboard design
+Data visualization
+KPI selection
+DAX measures
+Cricket analytics
+Data storytelling
+
+Every dashboard is another opportunity to learn, experiment, and improve.
+
+👨‍💻 Author
+
+Abhishek Kashyap
+
+Aspiring Data Analyst
+
+Skills
+
+Power BI | SQL | Python | Excel | DAX | Data Analytics | Data Visualization
+
+🏷️ Hashtags
+
+#PowerBI #DataAnalytics #DataAnalyst #SportsAnalytics
+#CricketAnalytics #SachinTendulkar #DAX #PowerQuery
+#DataVisualization #Dashboard #30Days30Dashboards
+#LearningInPublic #BusinessIntelligence
