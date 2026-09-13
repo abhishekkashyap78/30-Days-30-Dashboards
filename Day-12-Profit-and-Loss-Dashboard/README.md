@@ -1,12 +1,8 @@
 # 📊 Day 12 - Profit & Loss Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
-![DAX](https://img.shields.io/badge/DAX-Analysis-blue?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data-Analytics-orange?style=for-the-badge)
-
----
 ![Uploading image.png…]()
+
+
 
 ## 📌 Project Overview
 
