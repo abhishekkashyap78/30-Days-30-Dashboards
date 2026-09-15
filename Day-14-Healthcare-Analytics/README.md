@@ -54,9 +54,9 @@ Traditional spreadsheets and static reports can make it difficult to quickly ans
 The goal of this project is to provide an interactive solution for exploring these questions.
 
 ---
-![Healthcare Analytics Dashboard](<img width="2880" height="1692" alt="image" src="https://github.com/user-attachments/assets/ed17f2df-11f0-4080-a0ff-db430a3d9f93" />
-)
+## 🖼️ Dashboard Preview
 
+![Healthcare Analytics Dashboard](Healthcare-Dashboard.png)
 
 # 📊 Dashboard Features
 
