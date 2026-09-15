@@ -56,7 +56,8 @@ The goal of this project is to provide an interactive solution for exploring the
 ---
 ## 🖼️ Dashboard Preview
 
-![Healthcare Analytics Dashboard](Healthcare-Dashboard.png)
+(<img width="2880" height="1692" alt="Healthcare-Dashboard png" src="https://github.com/user-attachments/assets/9c94793f-4f73-4521-9349-7c09beea7e28" />
+)
 
 # 📊 Dashboard Features
 
