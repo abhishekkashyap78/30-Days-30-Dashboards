@@ -80,9 +80,6 @@ The dashboard provides insights into artist performance, including:
 - Streaming performance
 
 ---
-## 🖼️ Dashboard Preview
-
-<![Uploading image.png…]()
 
 ### 🎵 Track Analysis
 
