@@ -29,7 +29,7 @@ The objective of this dashboard is to transform raw Spotify music data into mean
 
 ---
 
-![Uploading image.png…]()
+
 
 
 ## 🎯 Business Problem
@@ -197,6 +197,8 @@ Used for:
 Used as the primary data source for the project.
 
 ---
+![Uploading image.png…]()
+
 
 ## 🧹 Data Cleaning & Preparation
 
