@@ -80,6 +80,9 @@ The dashboard provides insights into artist performance, including:
 - Streaming performance
 
 ---
+## 🖼️ Dashboard Preview
+
+<![Uploading image.png…]()
 
 ### 🎵 Track Analysis
 
@@ -197,7 +200,7 @@ Used for:
 Used as the primary data source for the project.
 
 ---
-![Uploading image.png…]()
+
 
 
 ## 🧹 Data Cleaning & Preparation
