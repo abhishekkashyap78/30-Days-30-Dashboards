@@ -94,8 +94,8 @@ The dashboard tracks important business KPIs such as:
 
 ---
 🖼️ Dashboard Preview
-<p align="center"> <img src="<img width="2880" height="1692" alt="d19" src="https://github.com/user-attachments/assets/af357903-a450-48e8-9bf9-df9c37f5bea8" />
-" alt="Retail Store Performance Dashboard" width="100%"> </p>
+<img width="2880" height="1692" alt="image" src="https://github.com/user-attachments/assets/a94543d0-456f-47e2-a621-bc9715b84895" />
+
 
 
 ## 🧹 Data Cleaning & Transformation
