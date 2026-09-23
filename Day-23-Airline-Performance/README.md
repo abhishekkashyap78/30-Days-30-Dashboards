@@ -131,6 +131,8 @@ The data preparation process included:
 - Preparing data for analysis
 
 ---
+<img width="2880" height="1692" alt="d23" src="https://github.com/user-attachments/assets/86c68bef-c717-4b5a-a02a-15334c7deaf4" />
+
 
 ## 🔄 Data Analysis Workflow
 
