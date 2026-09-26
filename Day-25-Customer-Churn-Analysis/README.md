@@ -212,8 +212,8 @@ Business Intelligence
 Data Visualization
 Business Problem Solving
 🖼️ Dashboard Preview
-<p align="center"> <img src="Customer-Churn-Dashboard.png" alt="Customer Churn Analysis Dashboard" width="100%"> </p>
-📁 Project Structure
+<img width="2880" height="1692" alt="image" src="https://github.com/user-attachments/assets/a53c373b-0009-44e1-906e-938bdefa42b1" />
+
 Day-25-Customer-Churn-Analysis/
 │
 ├── README.md
