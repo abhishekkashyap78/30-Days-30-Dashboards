@@ -1,0 +1,31 @@
+Day,Project_Name,Domain,Dashboard_Type,Tool,Skills,Dataset,Difficulty,KPI_Count,Chart_Count,DAX_Measures
+1,Sales Performance Dashboard,Sales,Sales Analytics,Power BI,"DAX, Power Query",Sales Dataset,Beginner,5,6,8
+2,E-Commerce Analytics Dashboard,E-Commerce,E-Commerce Analytics,Power BI,"DAX, Data Modeling",Olist,Intermediate,6,8,12
+3,HR Analysis Dashboard,HR,HR Analytics,Power BI,"DAX, Power Query",HR Dataset,Intermediate,6,7,10
+4,IPL Analysis Dashboard,Sports,Sports Analytics,Power BI,"DAX, Data Modeling",IPL Dataset,Intermediate,6,8,11
+5,Superstore Sales Analytics,Retail,Sales Analytics,Power BI,"DAX, Power Query",Superstore,Beginner,5,7,9
+6,Olympics Analytics Dashboard,Sports,Sports Analytics,Power BI,"DAX, Data Visualization",Olympics Dataset,Intermediate,6,7,10
+7,Amazon Sales Analytics Dashboard,E-Commerce,E-Commerce Analytics,Power BI,"DAX, Power Query",Amazon Sales Dataset,Intermediate,6,8,11
+8,Social Media Analytics Dashboard,Social Media,Social Media Analytics,Power BI,"DAX, Data Modeling",Social Media Dataset,Intermediate,6,8,12
+9,Customer Churn Analysis Dashboard,Customer,Churn Analytics,Power BI,"DAX, Data Modeling",Customer Churn Dataset,Advanced,6,8,13
+10,Supply Chain Analytics Dashboard,Supply Chain,Supply Chain Analytics,Power BI,"DAX, Power Query",Supply Chain Dataset,Advanced,6,8,13
+11,Financial Performance Dashboard,Finance,Financial Analytics,Power BI,"DAX, Power Query",Financial Dataset,Advanced,6,8,14
+12,Banking Analytics Dashboard,Banking,Banking Analytics,Power BI,"DAX, SQL",Banking Dataset,Advanced,6,8,14
+13,Restaurant Analytics Dashboard,Restaurant,Restaurant Analytics,Power BI,"DAX, Power Query",Restaurant Dataset,Intermediate,6,7,10
+14,Hotel Analytics Dashboard,Hospitality,Hotel Analytics,Power BI,"DAX, Data Modeling",Hotel Dataset,Intermediate,6,8,11
+15,Airline Analytics Dashboard,Airline,Airline Analytics,Power BI,"DAX, Data Visualization",Airline Dataset,Intermediate,6,8,12
+16,Football Analytics Dashboard,Sports,Sports Analytics,Power BI,"DAX, Data Modeling",Football Dataset,Intermediate,6,8,11
+17,YouTube Analytics Dashboard,Social Media,Social Media Analytics,Power BI,"DAX, Power Query",YouTube Dataset,Intermediate,6,8,12
+18,Netflix Analytics Dashboard,Entertainment,Entertainment Analytics,Power BI,"DAX, Data Visualization",Netflix Dataset,Beginner,6,7,9
+19,Spotify Analytics Dashboard,Entertainment,Music Analytics,Power BI,"DAX, Data Modeling",Spotify Dataset,Intermediate,6,8,11
+20,Real Estate Analytics Dashboard,Real Estate,Real Estate Analytics,Power BI,"DAX, Power Query",Real Estate Dataset,Intermediate,6,8,11
+21,Education Analytics Dashboard,Education,Education Analytics,Power BI,"DAX, Data Modeling",Education Dataset,Intermediate,6,7,10
+22,Marketing Analytics Dashboard,Marketing,Marketing Analytics,Power BI,"DAX, Power Query",Marketing Dataset,Intermediate,6,8,12
+23,Loan Default Analytics Dashboard,Finance,Risk Analytics,Power BI,"DAX, Data Modeling",Loan Default Dataset,Advanced,6,8,13
+24,Customer Sales Analytics Dashboard,Sales,Customer Analytics,Power BI,"DAX, Data Modeling",Customer Sales Dataset,Intermediate,6,8,11
+25,Product Performance Dashboard,Retail,Product Analytics,Power BI,"DAX, Power Query",Product Sales Dataset,Intermediate,6,7,10
+26,Employee Performance Dashboard,HR,HR Analytics,Power BI,"DAX, Data Modeling",Employee Dataset,Intermediate,6,8,11
+27,Data Auditor Analytics Dashboard,Business,Audit Analytics,Power BI,"DAX, Power Query",Audit Dataset,Advanced,6,8,12
+28,LinkedIn Analytics Dashboard,Social Media,Social Media Analytics,Power BI,"DAX, Data Modeling",LinkedIn Dataset,Advanced,6,8,13
+29,LinkedIn Jobs Analytics Dashboard,Recruitment,Recruitment Analytics,Power BI,"DAX, Data Modeling",LinkedIn Jobs Dataset,Advanced,6,8,13
+30,Final Data Analytics Portfolio,Portfolio,Portfolio Analytics,Power BI,"DAX, Power Query, Data Modeling",30-Day Portfolio Dataset,Advanced,6,6,10
